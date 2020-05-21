@@ -1,0 +1,18 @@
+
+public class testaMetodo {
+
+	public static void main(String[] args) {
+		Conta contaDoLuiz = new Conta();
+		contaDoLuiz.saldo = 100;
+		contaDoLuiz.deposita(50);
+		System.out.println(contaDoLuiz.saldo);
+		
+		boolean conseguiuRetirar = contaDoLuiz.saca(151);
+		if(conseguiuRetirar) {
+			System.out.println("Saque efetuado com sucesso!");
+		} else {
+			System.out.println("Saldo insuficiente.");
+		}
+		System.out.println(contaDoLuiz.saldo);
+	}
+}

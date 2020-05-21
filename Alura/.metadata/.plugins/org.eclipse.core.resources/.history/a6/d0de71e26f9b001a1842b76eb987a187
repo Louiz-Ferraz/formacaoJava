@@ -1,0 +1,11 @@
+
+public class EditoVideo extends Funcionario {
+	
+	public double getBonificacao() {
+		System.out.println("Chamando regra padrão de Editor de Vídeo");
+		return super.getBonificacao() + 100;
+	}
+	 
+
+}
+

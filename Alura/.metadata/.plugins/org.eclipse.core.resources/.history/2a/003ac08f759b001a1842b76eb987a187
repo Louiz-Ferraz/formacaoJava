@@ -1,0 +1,11 @@
+
+public class Gerente extends Autenticavel extends Funcionario { //Gerente herda da classe funcionario
+
+	@Override
+	public double getBonificacao() {
+		System.out.println("Chamando regra padrão de Gerente");
+		return super.getSalario();
+	}
+	 
+}
+

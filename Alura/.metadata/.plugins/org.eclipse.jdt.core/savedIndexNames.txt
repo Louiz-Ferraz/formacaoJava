@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Luiz Felipe\Documents\Eclipse\Alura\.metadata\.plugins\org.eclipse.jdt.core

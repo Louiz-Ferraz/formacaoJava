@@ -1,2 +1,2 @@
 # formacaoJava
-Arquivos e projetos desenvolvidos durante o curso Formação Java da Alura. 
+Arquivos e projetos desenvolvidos durante os cursos da Formação Java da Alura. 

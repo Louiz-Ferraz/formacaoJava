@@ -1,0 +1,11 @@
+
+public class TesteFuncionario {
+
+	public static void main(String[] args) {
+		
+		Funcionario luiz = new Funcionario();
+		luiz.setNome("luiz ferraz");
+		
+	}
+
+}
