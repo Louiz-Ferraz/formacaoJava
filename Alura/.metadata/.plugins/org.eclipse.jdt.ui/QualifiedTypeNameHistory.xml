@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.awt.print.Printable"/>
-<fullyQualifiedTypeName name="Conta"/>
 <fullyQualifiedTypeName name="FuncionarioTeste"/>
 <fullyQualifiedTypeName name="ControleBonificacao"/>
 <fullyQualifiedTypeName name="EditoVideo"/>
@@ -18,6 +17,15 @@
 <fullyQualifiedTypeName name="SeguroDeVida"/>
 <fullyQualifiedTypeName name="CalculadorDeImposto"/>
 <fullyQualifiedTypeName name="ContaPoupanca"/>
-<fullyQualifiedTypeName name="ContaCorrente"/>
 <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="Conta"/>
+<fullyQualifiedTypeName name="MinhaExcecao"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="ContaCorrente"/>
+<fullyQualifiedTypeName name="SaldoInsuficienteException"/>
+<fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+<fullyQualifiedTypeName name="Conexao"/>
+<fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+<fullyQualifiedTypeName name="br.com.bytebank.banco.especial.ContaEspecial"/>
+<fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaCorrente"/>
 </qualifiedTypeNameHistroy>
