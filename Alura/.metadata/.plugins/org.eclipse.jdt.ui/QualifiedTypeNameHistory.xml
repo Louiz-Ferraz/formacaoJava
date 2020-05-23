@@ -28,4 +28,5 @@
 <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
 <fullyQualifiedTypeName name="br.com.bytebank.banco.especial.ContaEspecial"/>
 <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaCorrente"/>
+<fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaPoupanca"/>
 </qualifiedTypeNameHistroy>
