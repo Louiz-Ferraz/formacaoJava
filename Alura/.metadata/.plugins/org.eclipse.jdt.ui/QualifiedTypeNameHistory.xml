@@ -8,7 +8,6 @@
 <fullyQualifiedTypeName name="Gerente"/>
 <fullyQualifiedTypeName name="SistemaInterno"/>
 <fullyQualifiedTypeName name="Administrador"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="FuncionarioAutenticavel"/>
 <fullyQualifiedTypeName name="Funcionario"/>
 <fullyQualifiedTypeName name="Cliente"/>
@@ -27,6 +26,13 @@
 <fullyQualifiedTypeName name="Conexao"/>
 <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
 <fullyQualifiedTypeName name="br.com.bytebank.banco.especial.ContaEspecial"/>
+<fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Conta"/>
+<fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.GuardadorDeContas"/>
 <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaCorrente"/>
 <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaPoupanca"/>
+<fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.GuardadorDeReferencias"/>
+<fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Cliente"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>

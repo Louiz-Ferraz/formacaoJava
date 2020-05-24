@@ -3,7 +3,7 @@ package br.com.bytebank.banco.test;
 import br.com.bytebank.banco.modelo.ContaCorrente;
 import br.com.bytebank.banco.modelo.ContaPoupanca;
 
-public class TesteObject extends Object {
+public class TesteObject1 extends Object {
 
 	public static void main(String[] args) {
 		
