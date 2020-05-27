@@ -1,7 +1,0 @@
-
-public class TesteFuncionarioTeste {
-
-	public static void main(String[] args) {
-		FuncionarioTeste f1 = new FuncionarioTeste();
-	}
-}

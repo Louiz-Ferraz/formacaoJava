@@ -1,8 +1,0 @@
-
-public class ControleBonificacao {
-	
-	public void registro(Gerente g) {
-		g.getBonificacao()
-	}
-	
-}
