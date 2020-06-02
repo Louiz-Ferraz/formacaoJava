@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/br/com/alura/java/io/teste/contas.csv</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/contas.csv</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
