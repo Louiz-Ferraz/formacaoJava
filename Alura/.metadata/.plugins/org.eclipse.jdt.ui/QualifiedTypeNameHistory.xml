@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="SeguroDeVida"/>
-<fullyQualifiedTypeName name="CalculadorDeImposto"/>
-<fullyQualifiedTypeName name="ContaPoupanca"/>
-<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
 <fullyQualifiedTypeName name="Conta"/>
 <fullyQualifiedTypeName name="MinhaExcecao"/>
 <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
@@ -60,4 +56,8 @@
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.util.NoSuchElementException"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+<fullyQualifiedTypeName name="br.com.caelum.stella.tinytype.CPF"/>
+<fullyQualifiedTypeName name="br.com.alura.maven.Produto"/>
 </qualifiedTypeNameHistroy>
